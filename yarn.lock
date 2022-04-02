@@ -9140,7 +9140,7 @@ react-motion@^0.5.2:
     prop-types "^15.5.8"
     raf "^3.1.0"
 
-react-npm@^1.39.3:
+react-npm@^2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/react-npm/-/react-npm-2.6.1.tgz#e5361b2360e064043a0f15709e177475874c7dc3"
   integrity sha512-hPR2ncAQ7QS47tPD4IFmU6jNWrfKUMHjWtu3fu+hbvbIERNVjuZSWy1a00a/J75M0ZvkOwL2AhXTTnO51ffXNA==
