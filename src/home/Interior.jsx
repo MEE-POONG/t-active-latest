@@ -69,7 +69,7 @@ const SlideList = [
     title: "Enjoy every moment with",
     description: "Premium sweetness",
     buttonText: "Say Hello With Us",
-    buttonLink: "/contact",
+    buttonLink: "https://t-active-stevia.com",
   },
 ];
 const Portfolio_image = (
