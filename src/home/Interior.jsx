@@ -424,9 +424,9 @@ class InteriorLanding extends Component {
                           <div className="slide-btn">
                             <a
                               className="btn-default btn-large"
-                              href={`${value.buttonLink}`}
+                              href={`https://t-active-stevia.com`}
                             >
-                              {value.buttonText}
+                              {value.buttonText} https://t-active-stevia.com/
                             </a>
                           </div>
                         ) : (
