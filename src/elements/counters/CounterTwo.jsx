@@ -16,19 +16,19 @@ class CounterOne extends Component{
         let Data = [
             {
                 countNum : 660,
-                countTitle: 'HAPPY CLIENTS',
+                countTitle: 'C U S T O M E R',
             },
             {
                 countNum : 894,
-                countTitle: 'STORES',
+                countTitle: 'S T O R E S',
             },
             {
                 countNum : 500,
-                countTitle: 'AWWARDS',
+                countTitle: 'A W W A R D S',
             },
             {
                 countNum : 640,
-                countTitle: 'AWESOME FEATURE',
+                countTitle: 'P A R T N E R',
             },
         ];
 

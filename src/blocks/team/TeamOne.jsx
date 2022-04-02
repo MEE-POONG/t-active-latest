@@ -8,17 +8,8 @@ const TeamOne = (props) => {
                 <div className={`${props.column}`} key={i}>
                     <div className={`team ${props.teamStyle}`}>
                         <div className="thumbnail">
-                            <img className="w-100" src={`/assets/images/team/team-${value.images}.jpg`} alt="Blog Images"/>
+                            <img className="w-100" src={`/assets/images/about/${i+1}.jpg`} alt="Blog Images"/>
                         </div>
-                        <div className="content">
-                            <h4 className="title">{value.title}</h4>
-                            <p className="designation">{value.designation}</p>
-                        </div>
-                        <ul className="social-icon" >
-                            {value.socialNetwork.map((social, index) =>
-                                <li key={index}><a href={`${social.url}`}>{social.icon}</a></li>
-                            )}
-                        </ul>
                     </div>
                 </div>
             ))}
