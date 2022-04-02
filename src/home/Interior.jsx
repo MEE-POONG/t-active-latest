@@ -552,7 +552,7 @@ class InteriorLanding extends Component {
                     <p>N A T U R A L &nbsp;&nbsp; P R O D U C T</p>
                     <a
                       className="btn-default btn-large btn-hover-white mt--50 mt_sm--30 mt_md--30"
-                      href="https://www.t-active-by-sugavia.com"
+                      href="https://t-active-stevia.com/"
                     >
                       <span>Purchase T-Active</span>
                     </a>
@@ -634,7 +634,7 @@ class InteriorLanding extends Component {
                   <div className="purchase-btn mt--50">
                     <a
                       className="btn-transparent"
-                      href="https://medthai.com/%E0%B8%AB%E0%B8%8D%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99/"
+                      href="https://t-active-stevia.com/"
                     >
                       WHY WE'RE DIFFERNT VALUES
                     </a>

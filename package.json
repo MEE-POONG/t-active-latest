@@ -2,7 +2,7 @@
   "name": "t-active-stevia-syrup",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://t-active-stevia-syrup.com/",
+  "homepage": "https://t-active-stevia.com/",
   "basename": "/",
   "dependencies": {
     "@babel/core": "7.4.3",
