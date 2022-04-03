@@ -372,7 +372,7 @@ class InteriorLanding extends Component {
               <div className="header-btn">
                 <a
                   className="btn-default btn-border btn-opacity"
-                  href="https://t-active-by-sugavia.com"
+                  href="https://t-active-stevia.com"
                 >
                   <span>contact</span>
                 </a>
