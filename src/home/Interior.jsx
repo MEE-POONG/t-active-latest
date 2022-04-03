@@ -347,25 +347,25 @@ class InteriorLanding extends Component {
                   offset={-200}
                 >
                   <li>
-                    <a href="#home">Home</a>
+                    <a href={`#home`}>Home</a>
                   </li>
                   <li>
-                    <a href="#service">Futures</a>
+                    <a href={`#service`}>Futures</a>
                   </li>
                   <li>
-                    <a href="#getstart">Get Start</a>
+                    <a href={`#getstart`}>Get Start</a>
                   </li>
                   <li>
-                    <a href="#about">About</a>
+                    <a href={`#about`}>About</a>
                   </li>
                   <li>
-                    <a href="#team">Inventor</a>
+                    <a href={`#team`}>Inventor</a>
                   </li>
                   <li>
-                    <a href="#testimonial">Testimonial</a>
+                    <a href={`#testimonial`}>Testimonial</a>
                   </li>
                   <li>
-                    <a href="#portfolio">Portfolio</a>
+                    <a href={`#portfolio`}>Portfolio</a>
                   </li>
                 </Scrollspy>
               </nav>

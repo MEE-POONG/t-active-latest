@@ -3,7 +3,8 @@
 ------------------------*/
 
 .error-page-inner{
-    height: calc(100vh - 120px);
+    // height: calc(100vh - 120px);
+    height: 100vh;
     display: flex;
     align-items: center;
     min-height: 700px;
