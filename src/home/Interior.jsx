@@ -350,7 +350,7 @@ class InteriorLanding extends Component {
                     <a href="#home">Home</a>
                   </li>
                   <li>
-                    <a href="#service">Service</a>
+                    <a href="#service">Futures</a>
                   </li>
                   <li>
                     <a href="#getstart">Get Start</a>
